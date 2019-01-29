@@ -5,75 +5,71 @@ Engineer
 ##Infos
 21•02•1991
 
-[benjamin.poilve+cv@gmail.com](benjamin.poilve+cv@gmail.com)
+[benjaminpoilve.com](https://benjaminpoilve.com)
 
-06.61.01.15.92
+[benjamin.poilve+cv@gmail.com](mailto:benjamin.poilve+cv@gmail.com?Subject=Hello%20Ben!)
+
++33 6.61.01.15.92
+
+
+## Experience
+`2016 • 2019`
+__CTO at [Seed-Up](https://www.seed-up.io/)__
+
+* With my co-founder imagined the concept of a hacker house. Bootstrapped the company while still at school.
+* Grew the company from two to fifteen peoples, **half a million** of yearly sales revenue.
+* Led projects for **Thales**, **Total**, **Sanofi**, designed critical machine learning and statistical algorithm for those clients, earning recurring customers.
 
 
 ## Education
 `2011 • 2017`
 [__Ecole Centrale Paris__](https://en.wikipedia.org/wiki/%C3%89cole_Centrale_Paris)
 
-Graduated with a specialisation in *advanced systems*.
+Graduated with a specialisation in **advanced systems**.
+
+* Won the 2017 **Centrale Numeric contest** with my project Backbone.
+* Won both the **Centrale Startup Weekend** and **Polytechnique Startup Weekend** Hackathons, with people I then founded a company with. We went on to also win the **Carrefour Hackathon** and the Satt Lutech **'Be the future of sound'** Challenge.
 
 `2013 • 2015`
 [__ENSCI__](https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_de_cr%C3%A9ation_industrielle)
 
-Studied three year in the *industrial designer* cursus.
+Studied three year in the **industrial designer** cursus, in a dual Diploma program with Centrale Paris.
+
+* Within six month of self-teaching electronics, the school opened a **paid teacher position** for me, helping other students both in software and hardware development.  
 
 
+`2009 • 2011`
+[__CPGE__](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles)
 
+MPSI then PSI* (Engineering specialisation) at the **Lycée Pierre de Fermat** 
+ 
+## Projects
 
-## Experience
-`2016 • Present`
-__Co-funded [Seed-Up](https://www.seed-up.io/)__
+__Backbone Speakers__
 
-With Paul Poupet, we imagined the concept of a hacker house. Acting as a CTO, I led projects for *Thales*, *Hermes*, *Sanofi*, building a  company of *10 people* with up to *half a million* of yearly sales revenue.
+For the yearly project, I submitted my personal idea and managed a team of two fellow students in building a mesh networked speaker. Designing both the software and hardware, we developed a scalable audio streaming over mesh protocol, and went on to win the yearly prize.
 
+__Liplo__
 
-`2015`
-__Electronics Teacher for the [Défis innover Ensemble](https://www.ensci.com/actualites/une-actualite/news/detail/News/18633/)__
+During my studies at the ENSCI, worked on a lot on the subject of pen plotter. Developed a kit pen plotter to discover CNC machines and generative programming. It won three Maker of Merit prizes at the first Paris Maker Fair The project was then selected by the SATT Lutech to be developed and a patent was filed.
 
-
-`2015`
-__Freelance at [NoDesign](https://www.nodesign.net/) and [Azambourg design studio](http://azambourg.com/)__
-
-
-
-`2014`
-__Internship at [NoDesign](https://www.nodesign.net/)__
-
-
-`2014`
-__Electronics and programmation teacher at the [ENSCI](https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_de_cr%C3%A9ation_industrielle)__
-
-`2012`
-__Internship at the Final Assembly Line of the [Airbus A340](https://en.wikipedia.org/wiki/Airbus_A340)__
-
-
-
-## Proficiency
-
-###Electronics
-
-Strong *prototyping skills*, both analog and board based from the bench to the fab house. Very good knowledge of sensor/actuator design and uses, and *IOT* solutions
+## Skills
 ###Programming
 
-Strong *algorithmic/machine learning knowledge*, mostly using *Python* with Pandas, Sklearn and Keras. Use of Pipenv or Anaconda/Jupyter. Common usage of *OpenCV* and *Dlib*.
-
-Good knowledge of *NodeJS* as well as *HTML/CSS/javascript*. 
-
-Common usage of *Linux* and *Openwrt* as well as *AWS*.
-Basics in *C/C++*.
+* **Python** with Numpy, Pandas, Sklearn, Scikit. Use of Pipenv or Anaconda/Jupyter.
+* Linear algebra, and Calculus, Algorithmic design.
+* **Bayesian** and **Frequentist** analysis, hypothesis testing
+* **NodeJS**, **HTML/CSS/javascript**. 
+* AWS deployment
+* Linux, OpenWRT, Git, Bash
 
 ###Software
 
-*Adobe suite*, especially Illustrator and Première pro.
+Adobe Illustrator and Première pro, Rhino 3D, Eagle.
 
-Proficient at *Rhino 3D*. 
+###Electronics
 
-Used to the control software of *Trotech laser cutter*, G-code generation tools and *CNC software* in general. Proficient use of *Eagle*.
-
+Strong **prototyping skills**. Very good knowledge of sensor/actuator design, PCB and **IOT**  design.
 
 ###Tools
 Laser cutter, CNC mill, 3D printers, classic workshop and metalwork tools.
